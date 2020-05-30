@@ -1,17 +1,24 @@
 body {
     margin: 0;
     padding: 0;
-    background-color:rgba(117, 190, 218, 0.5);
+   background-image: url(https://i1.wp.com/pixc.com/blog/wp-content/uploads/2014/10/image7.png?resize=1266%2C662&ssl=1);
     height: 100vh;
   }
   #login{
     margin-top: 120px;
     max-width: 600px;
-    height:500px;
+    height:auto;
     border: 1px solid #9C9C9C;
     background-color: #EAEAEA;
   }
   #register{
+    margin-top: 120px;
+    max-width: 600px;
+    height:auto;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+  }
+  #resetPassword{
     margin-top: 120px;
     max-width: 600px;
     height:auto;
